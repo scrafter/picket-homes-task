@@ -5,3 +5,6 @@
 2. npm install
 3. npm run dev
 ```
+
+### Unit tests
+Simply run `npm run test`
